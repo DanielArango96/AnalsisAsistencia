@@ -125,25 +125,37 @@ tiposUsuariosPorEspecialidad = dataFrameUsuarios.groupby(['especialidad', 'tipo_
 print("#04 :",tiposUsuariosPorEspecialidad)
 
 #5. usuario mas antiguo por tipo
-usuarioMasAntiguo=dataFrameUsuarios.loc[pd.to_datetime(dataFrameUsuarios['fecha_nacimiento']).groupby(dataFrameUsuarios['tipo_usuario']).idxmin()]
-print("#05 :",tiposUsuariosPorEspecialidad)
+#usuarioMasAntiguo=dataFrameUsuarios.loc[pd.to_datetime(dataFrameUsuarios['fecha_nacimiento']).groupby#(dataFrameUsuarios['tipo_usuario']).idxmin()]
+#print("#05 :",tiposUsuariosPorEspecialidad)
 
 
 #6. usuario mas joven por tipo
-usuarioMasJoven=dataFrameUsuarios.loc[pd.to_datetime(dataFrameUsuarios['fecha_nacimiento']).groupby(dataFrameUsuarios['tipo_usuario']).idxmax()]
-print("#06 :",tiposUsuariosPorEspecialidad)
+#usuarioMasJoven=dataFrameUsuarios.loc[pd.to_datetime(dataFrameUsuarios['fecha_nacimiento']).groupby(dataFrameUsuarios['tipo_usuario']).idxmax()]
+#print("#06 :",tiposUsuariosPorEspecialidad)
 
 #7. primer registro por tipo
-primerRegistroPorTipo=dataFrameUsuarios.loc[pd.to_datetime(dataFrameUsuarios['fecha_registro']).groupby(dataFrameUsuarios['tipo_usuario']).idxmin()]
-print("#07 :",primerRegistroPorTipo)
-
+primerRegistro = dataFrameUsuarios.groupby('tipo_usuario').head(1)
+print("#07 :",primerRegistro)
 
 #8. ultimo registro por tipo
-
+ultimoRegistro = dataFrameUsuarios.groupby('tipo_usuario').tail(1)
+print("#08 :",ultimoRegistro)
 #9. combinacion tipo por especialidad
+combinacionEspecialidad = dataFrameUsuarios.groupby(['especialidad', 'tipo_usuario']).size()
+print("#09 :",ultimoRegistro)
+
+
 #10. el mas viejo por especialidad
+masViejoPorEspecialidad = dataFrameUsuarios.loc[dataFrameUsuarios.groupby('especialidad')['fecha_nacimiento'].idxmin()]
+print("#10 :",masViejoPorEspecialidad)
+
 #11. cuantos de cada especialidad por tipo
+
 #12. edad promedio por tipo
+
 #13. años de nacimeinto mas frecuente por especialidad
 #14. mes de nacimiento ams frecuente por tipo
 #15. UNA CONSULTA O FILTRO QUE UD PROPONGA
+#Cantidad de usuarios por ciudad y tipo
+cantidadUsuariosPorTipoYCiudad= dataFrameUsuarios.groupby(['ciudad', 'tipo_usuario']).size()
+print("#15 :",masViejoPorEspecialidad)
