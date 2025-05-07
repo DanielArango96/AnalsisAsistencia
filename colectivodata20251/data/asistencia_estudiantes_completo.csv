@@ -1,0 +1,501 @@
+id_estudiante,id_grupo,fecha,estado,estrato,medio_transporte
+744,25,2025-04-03,asistio,4,carro
+676,28,2025-03-19,inasistencia,3,moto
+307,9,2025-03-16,inasistencia,2,metro
+221,6,2025-04-01,asistio,1,carro
+312,3,2025-03-30,justificado,2,carro
+754,45,2025-03-28,asistio,4,a pie
+827,31,2025-03-27,justificado,1,moto
+576,37,2025-03-19,asistio,1,metro
+765,13,2025-04-07,justificado,1,bicicleta
+963,18,2025-03-20,inasistencia,5,bicicleta
+236,39,2025-03-10,inasistencia,1,a pie
+862,47,2025-03-12,justificado,2,bicicleta
+360,14,2025-03-30,asistio,4,carro
+575,46,2025-03-24,inasistencia,3,carro
+749,43,2025-03-12,inasistencia,4,carro
+518,6,2025-03-27,justificado,1,metro
+473,35,2025-03-25,inasistencia,2,bicicleta
+83,20,2025-04-02,inasistencia,3,metro
+431,25,2025-03-28,justificado,5,moto
+692,26,2025-03-31,asistio,1,bus
+467,42,2025-03-23,asistio,3,metro
+811,27,2025-03-17,justificado,4,carro
+592,26,2025-03-15,justificado,1,bus
+417,11,2025-04-06,asistio,6,moto
+585,50,2025-03-31,asistio,1,bicicleta
+807,13,2025-03-25,justificado,6,moto
+654,5,2025-04-04,justificado,2,metro
+380,29,2025-03-25,justificado,4,carro
+345,23,2025-03-27,inasistencia,3,metro
+293,42,2025-03-09,justificado,4,bus
+108,50,2025-03-13,asistio,1,moto
+651,49,2025-03-10,inasistencia,2,metro
+423,4,2025-03-15,justificado,5,carro
+438,1,2025-04-03,asistio,5,metro
+558,13,2025-03-16,inasistencia,4,metro
+238,41,2025-03-17,justificado,5,moto
+410,6,2025-04-05,justificado,3,carro
+817,37,2025-03-09,inasistencia,5,metro
+672,33,2025-03-25,inasistencia,5,metro
+709,30,2025-03-24,asistio,4,bicicleta
+84,16,2025-04-01,justificado,2,moto
+382,45,2025-03-12,justificado,1,a pie
+868,46,2025-04-04,asistio,3,carro
+739,26,2025-03-17,justificado,1,carro
+298,39,2025-03-31,inasistencia,5,bus
+175,39,2025-03-22,inasistencia,3,carro
+322,23,2025-03-27,asistio,5,moto
+112,50,2025-03-13,inasistencia,5,bicicleta
+535,3,2025-03-12,justificado,4,moto
+480,27,2025-04-06,inasistencia,5,metro
+735,48,2025-03-14,inasistencia,2,moto
+682,13,2025-03-25,justificado,4,bicicleta
+989,9,2025-04-02,asistio,5,moto
+70,27,2025-04-07,asistio,3,bus
+800,26,2025-03-22,justificado,3,carro
+872,5,2025-03-16,justificado,5,bus
+219,5,2025-03-23,asistio,6,a pie
+505,34,2025-03-16,asistio,6,metro
+261,38,2025-03-24,inasistencia,5,bus
+628,25,2025-03-25,inasistencia,5,a pie
+728,14,2025-03-09,justificado,1,bicicleta
+720,10,2025-03-20,asistio,5,bicicleta
+759,43,2025-03-17,justificado,4,carro
+803,33,2025-04-07,inasistencia,6,a pie
+545,30,2025-03-16,asistio,6,metro
+100,40,2025-03-19,asistio,3,bicicleta
+834,50,2025-03-10,justificado,5,moto
+761,41,2025-03-24,asistio,5,moto
+755,45,2025-03-21,asistio,6,bus
+538,35,2025-03-12,inasistencia,4,a pie
+753,7,2025-03-11,inasistencia,3,moto
+752,31,2025-03-19,inasistencia,4,a pie
+447,35,2025-03-13,asistio,5,bus
+16,23,2025-03-15,inasistencia,2,bicicleta
+731,47,2025-03-27,justificado,1,carro
+614,30,2025-04-03,asistio,3,bus
+995,49,2025-03-09,inasistencia,6,moto
+822,23,2025-03-15,asistio,5,bus
+7,19,2025-03-19,asistio,4,metro
+201,13,2025-03-20,asistio,3,bicicleta
+904,5,2025-03-17,inasistencia,2,carro
+757,46,2025-04-03,inasistencia,1,a pie
+252,48,2025-03-11,inasistencia,3,carro
+706,37,2025-03-24,asistio,1,bicicleta
+824,13,2025-03-10,justificado,1,moto
+950,37,2025-03-09,asistio,1,bus
+440,48,2025-03-31,asistio,4,bicicleta
+370,35,2025-03-20,inasistencia,3,metro
+425,31,2025-03-25,inasistencia,2,moto
+283,31,2025-03-24,asistio,6,a pie
+207,3,2025-03-26,asistio,6,bus
+30,21,2025-03-16,inasistencia,1,moto
+205,42,2025-03-30,justificado,5,bicicleta
+636,33,2025-03-24,justificado,4,bicicleta
+540,15,2025-04-06,justificado,1,a pie
+442,26,2025-03-27,justificado,3,bicicleta
+170,34,2025-03-12,inasistencia,6,moto
+964,25,2025-03-14,justificado,3,a pie
+454,32,2025-03-19,justificado,6,bicicleta
+686,22,2025-03-14,inasistencia,4,bus
+367,45,2025-04-06,justificado,2,bus
+165,46,2025-03-21,inasistencia,5,bus
+708,1,2025-03-29,inasistencia,5,carro
+767,3,2025-03-19,justificado,5,bus
+125,3,2025-03-12,asistio,3,moto
+783,35,2025-03-24,justificado,2,bicicleta
+282,4,2025-04-05,asistio,1,moto
+662,14,2025-03-15,justificado,3,metro
+271,23,2025-03-26,asistio,3,bus
+876,47,2025-03-22,justificado,2,carro
+354,25,2025-03-31,asistio,1,moto
+323,23,2025-03-13,inasistencia,6,bicicleta
+393,26,2025-03-12,justificado,1,bus
+257,26,2025-04-05,inasistencia,3,moto
+704,30,2025-03-29,asistio,1,metro
+471,22,2025-03-18,asistio,1,carro
+118,14,2025-03-15,justificado,3,moto
+847,9,2025-04-01,inasistencia,3,bicicleta
+878,12,2025-04-07,justificado,3,moto
+216,1,2025-04-07,inasistencia,1,bus
+240,38,2025-03-14,inasistencia,6,moto
+156,7,2025-03-19,justificado,2,metro
+874,25,2025-03-13,inasistencia,5,bicicleta
+818,7,2025-03-11,asistio,6,carro
+622,32,2025-04-04,asistio,4,a pie
+137,19,2025-03-15,justificado,3,carro
+321,12,2025-03-10,asistio,5,a pie
+670,14,2025-03-29,inasistencia,6,a pie
+779,12,2025-04-03,inasistencia,4,metro
+527,33,2025-03-18,inasistencia,3,metro
+998,9,2025-03-09,asistio,2,bus
+99,14,2025-03-18,asistio,5,bus
+413,23,2025-03-27,asistio,4,carro
+926,7,2025-04-02,justificado,4,bicicleta
+890,46,2025-03-14,asistio,1,bicicleta
+418,20,2025-03-19,justificado,6,bus
+266,42,2025-03-11,justificado,6,bus
+141,47,2025-03-14,inasistencia,6,a pie
+823,50,2025-04-02,justificado,4,bus
+324,50,2025-03-18,asistio,6,metro
+36,14,2025-03-09,asistio,1,carro
+400,28,2025-04-03,inasistencia,6,metro
+650,36,2025-03-15,asistio,5,bicicleta
+89,31,2025-03-13,asistio,4,a pie
+517,22,2025-04-01,justificado,4,metro
+561,14,2025-03-18,asistio,3,moto
+204,48,2025-03-24,justificado,5,a pie
+278,39,2025-03-13,justificado,6,carro
+578,41,2025-03-13,justificado,4,metro
+368,13,2025-03-17,asistio,4,bus
+192,45,2025-03-25,inasistencia,2,moto
+191,18,2025-03-15,asistio,5,carro
+416,49,2025-04-01,inasistencia,2,carro
+812,12,2025-03-17,asistio,5,bicicleta
+304,42,2025-03-31,asistio,6,bicicleta
+53,49,2025-03-25,justificado,2,metro
+572,12,2025-03-19,asistio,3,a pie
+953,11,2025-03-20,inasistencia,1,a pie
+674,9,2025-03-13,inasistencia,3,moto
+214,8,2025-03-14,justificado,6,carro
+458,32,2025-03-24,asistio,3,bus
+34,21,2025-04-03,justificado,4,metro
+45,11,2025-04-04,justificado,5,bicicleta
+105,23,2025-04-05,asistio,4,carro
+598,8,2025-03-20,justificado,1,metro
+270,22,2025-03-23,inasistencia,4,moto
+113,4,2025-03-18,justificado,3,metro
+225,14,2025-03-23,justificado,5,metro
+747,25,2025-03-24,justificado,4,carro
+582,30,2025-04-03,justificado,4,carro
+395,39,2025-03-12,inasistencia,3,bicicleta
+10,5,2025-03-30,asistio,2,moto
+340,29,2025-03-13,justificado,1,carro
+245,40,2025-03-10,inasistencia,2,bicicleta
+889,34,2025-03-26,asistio,5,carro
+126,25,2025-03-22,asistio,5,a pie
+378,17,2025-03-27,inasistencia,2,moto
+665,22,2025-04-03,justificado,6,moto
+172,17,2025-03-20,inasistencia,5,moto
+199,33,2025-03-30,inasistencia,5,bicicleta
+793,41,2025-03-28,inasistencia,3,bicicleta
+556,37,2025-03-31,justificado,1,moto
+908,31,2025-04-07,justificado,2,moto
+639,47,2025-04-07,inasistencia,6,bus
+740,50,2025-03-13,justificado,5,a pie
+794,10,2025-03-10,asistio,4,moto
+888,39,2025-03-26,justificado,1,a pie
+13,34,2025-03-13,justificado,2,a pie
+186,29,2025-04-07,inasistencia,1,metro
+258,27,2025-03-21,justificado,5,bicicleta
+590,50,2025-03-09,asistio,5,bicicleta
+539,30,2025-03-12,justificado,4,moto
+114,2,2025-03-19,justificado,1,moto
+620,9,2025-03-17,asistio,6,carro
+799,50,2025-03-18,inasistencia,3,carro
+512,43,2025-03-25,asistio,4,bus
+453,42,2025-03-19,asistio,4,metro
+200,46,2025-03-12,justificado,3,a pie
+831,27,2025-03-28,justificado,4,metro
+549,49,2025-03-21,inasistencia,4,carro
+223,29,2025-03-12,justificado,6,metro
+50,45,2025-03-13,inasistencia,2,bus
+642,31,2025-03-09,inasistencia,5,carro
+377,22,2025-03-15,inasistencia,5,bus
+375,39,2025-03-28,asistio,1,carro
+295,39,2025-04-03,inasistencia,2,carro
+23,50,2025-04-07,asistio,5,bicicleta
+90,34,2025-03-09,justificado,6,moto
+426,47,2025-03-27,inasistencia,1,moto
+613,2,2025-03-21,justificado,4,bus
+917,38,2025-03-09,asistio,1,moto
+519,6,2025-03-12,justificado,5,moto
+494,17,2025-03-17,asistio,3,carro
+771,50,2025-03-09,justificado,2,moto
+421,25,2025-04-04,asistio,2,bus
+250,35,2025-04-03,justificado,1,moto
+56,4,2025-03-27,asistio,5,carro
+160,8,2025-04-01,inasistencia,6,moto
+913,31,2025-03-25,asistio,5,metro
+884,30,2025-03-20,inasistencia,5,metro
+80,26,2025-03-31,asistio,5,a pie
+742,17,2025-04-04,asistio,6,carro
+455,33,2025-03-27,asistio,6,metro
+210,41,2025-03-22,inasistencia,2,bicicleta
+625,46,2025-03-25,justificado,3,a pie
+610,10,2025-03-17,asistio,5,moto
+366,1,2025-04-06,inasistencia,2,a pie
+802,5,2025-03-19,asistio,3,moto
+144,1,2025-03-16,inasistencia,6,moto
+634,49,2025-03-18,inasistencia,4,metro
+235,14,2025-03-12,justificado,3,bus
+290,43,2025-03-18,justificado,6,metro
+584,43,2025-03-26,inasistencia,4,bicicleta
+996,34,2025-04-03,justificado,5,bus
+921,2,2025-04-06,inasistencia,3,bus
+515,11,2025-03-13,inasistencia,1,metro
+836,48,2025-03-11,inasistencia,2,bus
+983,28,2025-03-15,asistio,6,bus
+461,42,2025-04-03,asistio,5,metro
+316,17,2025-03-22,justificado,5,a pie
+701,19,2025-03-21,asistio,4,moto
+103,48,2025-03-22,asistio,1,bicicleta
+343,49,2025-03-31,inasistencia,2,moto
+346,18,2025-03-25,inasistencia,3,metro
+990,50,2025-04-06,inasistencia,4,a pie
+383,50,2025-03-12,inasistencia,1,bus
+966,24,2025-03-30,inasistencia,3,moto
+422,16,2025-04-01,inasistencia,3,a pie
+631,21,2025-03-28,inasistencia,3,a pie
+349,45,2025-03-18,asistio,6,bicicleta
+629,32,2025-03-23,inasistencia,3,bicicleta
+923,11,2025-03-15,justificado,4,bicicleta
+638,20,2025-03-26,asistio,3,moto
+727,22,2025-04-03,justificado,1,moto
+945,14,2025-04-06,justificado,6,bicicleta
+791,19,2025-04-07,justificado,3,carro
+249,34,2025-03-21,justificado,1,bicicleta
+441,28,2025-03-15,asistio,1,moto
+72,16,2025-03-25,inasistencia,1,bicicleta
+857,24,2025-03-31,inasistencia,6,bus
+653,35,2025-03-24,inasistencia,3,moto
+961,48,2025-03-11,inasistencia,3,moto
+489,8,2025-03-25,justificado,6,a pie
+389,16,2025-04-04,justificado,3,moto
+875,30,2025-03-29,inasistencia,6,carro
+737,47,2025-04-02,inasistencia,1,bus
+935,25,2025-03-15,inasistencia,3,bus
+424,34,2025-03-11,inasistencia,1,metro
+529,43,2025-03-15,justificado,3,bus
+510,23,2025-03-23,inasistencia,4,carro
+607,17,2025-03-16,inasistencia,1,bicicleta
+428,9,2025-04-04,asistio,6,bicicleta
+381,32,2025-03-26,inasistencia,6,bus
+713,33,2025-04-04,inasistencia,1,bus
+8,19,2025-03-20,justificado,4,metro
+499,43,2025-03-28,inasistencia,1,carro
+350,5,2025-03-22,asistio,6,metro
+969,2,2025-03-13,justificado,6,metro
+980,47,2025-03-24,justificado,3,bus
+140,2,2025-03-15,asistio,2,carro
+982,11,2025-03-23,inasistencia,2,a pie
+973,1,2025-03-19,justificado,4,a pie
+74,28,2025-03-25,justificado,3,bicicleta
+448,48,2025-03-19,inasistencia,2,bus
+122,40,2025-03-23,justificado,1,a pie
+444,28,2025-03-11,justificado,6,carro
+657,2,2025-03-25,asistio,1,bus
+804,17,2025-03-10,asistio,5,bicicleta
+71,6,2025-03-23,asistio,2,carro
+403,29,2025-04-05,justificado,2,metro
+656,21,2025-03-13,justificado,3,bicicleta
+294,50,2025-03-17,inasistencia,4,a pie
+64,21,2025-04-01,asistio,4,moto
+402,36,2025-03-14,justificado,6,bicicleta
+810,24,2025-03-30,asistio,5,metro
+168,15,2025-04-03,justificado,1,metro
+497,14,2025-03-16,justificado,2,bus
+525,20,2025-03-31,inasistencia,4,bus
+948,6,2025-03-17,asistio,6,carro
+712,9,2025-04-06,asistio,3,bicicleta
+858,47,2025-03-10,inasistencia,1,moto
+979,12,2025-03-21,asistio,5,carro
+900,1,2025-03-27,inasistencia,6,bus
+433,8,2025-03-11,asistio,3,metro
+523,3,2025-04-04,inasistencia,6,moto
+553,1,2025-03-22,inasistencia,2,bus
+308,13,2025-03-25,asistio,5,metro
+843,38,2025-03-22,inasistencia,1,a pie
+145,27,2025-03-17,justificado,4,metro
+490,10,2025-03-18,inasistencia,6,moto
+470,17,2025-03-13,inasistencia,2,a pie
+577,12,2025-03-20,asistio,5,bus
+770,39,2025-03-26,inasistencia,6,moto
+306,45,2025-03-25,justificado,5,a pie
+506,29,2025-03-20,justificado,1,moto
+284,27,2025-03-27,inasistencia,6,carro
+534,7,2025-04-03,justificado,6,metro
+946,35,2025-04-01,inasistencia,6,carro
+883,26,2025-03-21,inasistencia,6,moto
+408,18,2025-03-21,asistio,4,metro
+329,25,2025-03-12,asistio,1,a pie
+893,41,2025-03-25,asistio,1,bus
+520,10,2025-04-01,justificado,6,bicicleta
+699,31,2025-03-10,justificado,3,metro
+101,30,2025-03-15,justificado,1,moto
+583,12,2025-03-12,asistio,1,moto
+559,17,2025-03-21,asistio,4,metro
+710,17,2025-04-04,justificado,1,bicicleta
+703,15,2025-03-13,asistio,3,bicicleta
+127,32,2025-04-06,inasistencia,1,carro
+596,18,2025-04-04,asistio,3,bicicleta
+721,46,2025-03-29,justificado,5,bicicleta
+91,45,2025-03-30,inasistencia,3,bicicleta
+612,27,2025-04-01,inasistencia,4,bicicleta
+602,41,2025-03-16,inasistencia,4,a pie
+849,45,2025-03-24,justificado,2,metro
+903,17,2025-03-12,justificado,2,metro
+839,11,2025-04-07,justificado,1,carro
+362,4,2025-04-06,justificado,6,bus
+466,39,2025-03-14,justificado,2,carro
+2,50,2025-03-11,justificado,2,moto
+287,29,2025-03-24,inasistencia,1,moto
+850,35,2025-04-02,asistio,4,a pie
+967,13,2025-03-09,inasistencia,2,metro
+19,27,2025-03-17,inasistencia,5,a pie
+274,38,2025-03-14,inasistencia,5,metro
+220,32,2025-03-14,asistio,5,moto
+139,35,2025-03-20,inasistencia,6,a pie
+463,47,2025-03-26,justificado,5,carro
+213,48,2025-03-27,asistio,2,bicicleta
+5,26,2025-04-01,justificado,1,bus
+942,29,2025-03-15,asistio,5,bus
+597,29,2025-03-14,asistio,5,bicicleta
+176,23,2025-03-26,inasistencia,3,carro
+468,8,2025-04-01,justificado,2,moto
+487,7,2025-04-04,inasistencia,6,carro
+684,12,2025-04-01,inasistencia,2,moto
+565,25,2025-04-05,justificado,6,a pie
+957,30,2025-04-02,inasistencia,3,bus
+81,2,2025-03-27,justificado,2,bus
+552,2,2025-03-17,justificado,2,bus
+756,50,2025-04-03,justificado,5,bicicleta
+962,44,2025-03-23,justificado,3,carro
+939,3,2025-03-23,inasistencia,4,metro
+507,45,2025-04-07,asistio,5,bus
+469,10,2025-03-23,asistio,3,moto
+301,33,2025-03-25,justificado,1,carro
+910,8,2025-03-14,asistio,6,bicicleta
+420,38,2025-04-02,asistio,3,moto
+693,49,2025-03-16,asistio,6,a pie
+31,20,2025-03-22,asistio,3,carro
+396,39,2025-03-11,justificado,5,bicicleta
+745,8,2025-04-07,justificado,6,carro
+736,42,2025-03-21,justificado,6,moto
+646,33,2025-04-02,inasistencia,6,metro
+594,33,2025-03-27,justificado,5,bicicleta
+79,19,2025-03-22,inasistencia,3,bicicleta
+725,5,2025-03-29,inasistencia,1,moto
+805,37,2025-03-28,justificado,3,moto
+881,8,2025-04-04,asistio,6,bus
+120,36,2025-03-12,asistio,5,a pie
+397,38,2025-03-23,asistio,5,carro
+299,40,2025-03-30,justificado,5,bus
+732,31,2025-03-23,justificado,3,a pie
+830,49,2025-03-10,justificado,6,metro
+460,19,2025-03-21,asistio,1,moto
+792,49,2025-03-15,inasistencia,3,moto
+465,34,2025-03-24,inasistencia,1,carro
+63,21,2025-03-21,inasistencia,5,metro
+285,46,2025-03-17,asistio,4,carro
+215,47,2025-04-01,asistio,5,a pie
+472,4,2025-03-17,asistio,2,metro
+641,26,2025-03-28,justificado,2,bus
+541,1,2025-03-21,inasistencia,1,metro
+914,21,2025-03-30,inasistencia,6,bus
+25,11,2025-04-07,justificado,1,bus
+784,7,2025-03-28,inasistencia,4,carro
+772,17,2025-03-16,justificado,4,bus
+409,8,2025-03-10,asistio,2,moto
+138,18,2025-04-06,inasistencia,3,moto
+587,28,2025-03-20,justificado,6,metro
+268,24,2025-03-29,asistio,1,moto
+987,19,2025-04-06,justificado,1,moto
+528,7,2025-03-13,inasistencia,3,metro
+611,8,2025-03-16,asistio,1,bicicleta
+29,22,2025-03-11,asistio,5,bus
+302,40,2025-03-31,asistio,4,carro
+694,33,2025-04-01,asistio,2,carro
+894,2,2025-03-12,justificado,6,metro
+851,7,2025-03-20,asistio,2,a pie
+269,4,2025-03-17,justificado,3,bicicleta
+69,24,2025-03-13,justificado,5,a pie
+808,50,2025-04-02,inasistencia,5,moto
+315,24,2025-03-26,inasistencia,3,bus
+615,25,2025-03-21,justificado,4,metro
+652,48,2025-04-01,asistio,5,metro
+358,1,2025-03-21,inasistencia,1,metro
+762,49,2025-03-11,justificado,6,bus
+121,11,2025-03-25,inasistencia,1,moto
+533,28,2025-03-30,asistio,5,a pie
+177,5,2025-04-06,justificado,3,moto
+882,18,2025-03-29,justificado,1,metro
+262,44,2025-03-19,asistio,4,moto
+643,19,2025-03-18,inasistencia,5,moto
+766,1,2025-04-01,inasistencia,5,bicicleta
+986,38,2025-04-03,asistio,1,bicicleta
+603,33,2025-04-01,asistio,5,moto
+852,50,2025-04-07,justificado,4,metro
+959,5,2025-03-11,inasistencia,1,bus
+907,48,2025-03-31,justificado,6,carro
+976,9,2025-03-11,asistio,3,a pie
+341,23,2025-03-25,inasistencia,5,bicicleta
+863,12,2025-03-19,inasistencia,3,moto
+161,23,2025-03-27,asistio,1,metro
+333,5,2025-03-23,inasistencia,5,bus
+581,33,2025-03-27,inasistencia,2,a pie
+855,44,2025-03-30,inasistencia,4,moto
+934,31,2025-03-21,justificado,5,moto
+33,41,2025-03-12,inasistencia,2,bicicleta
+609,8,2025-03-12,inasistencia,1,a pie
+153,31,2025-03-28,justificado,1,moto
+187,45,2025-03-18,justificado,6,bus
+451,27,2025-03-17,asistio,2,bus
+479,48,2025-04-04,justificado,2,bicicleta
+190,38,2025-04-06,inasistencia,5,bus
+94,35,2025-04-03,inasistencia,5,moto
+401,48,2025-03-13,justificado,5,a pie
+387,18,2025-04-06,justificado,6,moto
+789,9,2025-03-12,inasistencia,6,carro
+627,26,2025-03-13,inasistencia,4,bicicleta
+738,11,2025-03-10,inasistencia,3,carro
+319,17,2025-04-04,justificado,2,carro
+344,3,2025-03-20,asistio,6,bus
+562,36,2025-04-07,inasistencia,6,moto
+128,17,2025-04-07,asistio,2,bicicleta
+47,46,2025-03-16,justificado,4,bus
+478,8,2025-03-16,asistio,3,a pie
+785,38,2025-03-09,asistio,5,bicicleta
+542,23,2025-03-20,asistio,2,a pie
+22,40,2025-04-03,inasistencia,2,bicicleta
+801,6,2025-03-28,justificado,5,moto
+183,47,2025-03-09,inasistencia,4,bus
+902,22,2025-03-31,inasistencia,2,bus
+49,12,2025-04-02,justificado,4,bicicleta
+637,11,2025-03-20,inasistencia,1,metro
+551,27,2025-03-30,inasistencia,2,moto
+9,25,2025-03-31,asistio,2,bicicleta
+46,32,2025-03-29,asistio,1,metro
+928,45,2025-03-22,justificado,3,bicicleta
+338,2,2025-03-29,inasistencia,4,carro
+449,49,2025-04-07,justificado,2,bicicleta
+98,3,2025-03-22,inasistencia,2,metro
+714,41,2025-03-21,justificado,4,bus
+246,46,2025-03-09,inasistencia,4,bus
+280,38,2025-03-16,inasistencia,5,moto
+722,8,2025-03-09,inasistencia,4,metro
+115,36,2025-03-11,asistio,3,moto
+352,26,2025-03-23,asistio,1,bus
+259,23,2025-03-10,asistio,4,metro
+76,49,2025-04-06,asistio,5,a pie
+317,50,2025-04-05,inasistencia,6,metro
+443,19,2025-03-23,asistio,6,bicicleta
+435,48,2025-03-20,inasistencia,3,bicicleta
+20,41,2025-03-20,justificado,6,metro
+231,25,2025-04-06,justificado,4,moto
+661,45,2025-03-20,justificado,3,bus
+155,4,2025-03-12,asistio,2,carro
+260,22,2025-04-05,justificado,5,a pie
+247,31,2025-04-07,inasistencia,4,bus
+508,37,2025-03-15,asistio,3,metro
+430,5,2025-04-06,asistio,4,carro
+795,8,2025-03-24,asistio,5,metro
+42,11,2025-03-18,justificado,4,bicicleta
+760,49,2025-03-22,justificado,5,carro
+21,18,2025-04-06,justificado,2,carro
+593,26,2025-03-28,asistio,6,metro
+880,3,2025-03-29,asistio,2,carro
+314,28,2025-03-31,justificado,1,moto
+573,18,2025-03-26,asistio,4,a pie
+104,39,2025-03-11,justificado,1,bus
